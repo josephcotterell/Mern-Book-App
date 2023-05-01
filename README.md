@@ -20,7 +20,6 @@ Snapshot
 
 This app is deployed on Heroku
 Heroku
-(https://book-search-challenge-21-mern.herokuapp.com/)
 
 # License
 
